@@ -7,7 +7,7 @@ This is my new Weather App with offline capabilities and notification.
 - view detail weather information
 - 3 days weather forecast
 - add to favourite for offline support
-- update data to offline when network conection is available
+- update data to offline when network connection is available
 - remove from favourite list
 - firebase notification
 - animation list
@@ -27,3 +27,6 @@ Search             |  Favourite
 Admin             |
 :-------------------------:|
 <img src="https://github.com/winhc/weather_app/blob/master/docs/images/weather_admin.png" width="390" height="800" />
+
+### APK File
+- [Google Drive Link](https://drive.google.com/file/d/1B1UnPd57YsKoqOBFSp5d8jbGRqC2YbAW/view?usp=drive_link)
