@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 
 class WeatherDataProvider {
   final String BASE_URL = "http://api.weatherapi.com/v1";
-  final String API_KEY = "df5ba0a0234b41068c9171151232505";
+  final String API_KEY = "YOUR_API_KEY";
 
   Future<http.Response> getRawWeatherData(String city) async {
     http.Response rawWeatherData = await http.get(

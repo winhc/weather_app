@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 
 class LocationDataProvider {
   final String BASE_URL = "http://api.weatherapi.com/v1";
-  final String API_KEY = "df5ba0a0234b41068c9171151232505";
+  final String API_KEY = "YOUR_API_KEY";
 
   Future<http.Response> getLocationList(String location) async {
     http.Response rawLocationData = await http.get(
