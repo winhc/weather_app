@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856461016610",
+    "project_id": "wloweather",
+    "storage_bucket": "wloweather.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856461016610:android:eb5baca538fdaff71d547b",
+        "android_client_info": {
+          "package_name": "com.winlwinoo.weather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLjmJFKO1Q3sIPRxtBEbU3uZHVIaUTMcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

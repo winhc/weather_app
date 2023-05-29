@@ -13,9 +13,11 @@ class LocationRepositoryImpl implements LocationRepository {
     List<Location> locationList = [];
     final http.Response rawLocation =
         await _locationDataProvider.getLocationList(location);
-    final dataList = json.decode(rawLocation.body);
-    locationList =
-        List<Location>.from(dataList.map((model) => Location.fromMap(model)));
+    if (rawLocation.statusCode == 200) {
+      final dataList = json.decode(rawLocation.body);
+      locationList =
+          List<Location>.from(dataList.map((model) => Location.fromMap(model)));
+    }
     return locationList;
   }
 }
