@@ -13,5 +13,5 @@ This is my new Weather App with offline capabilities and notification.
 - animation list
 
 ### Screen record & UI
-<img src="https://github.com/winhc/weather_app/blob/master/docs/gif/weather_app_screen_record.gif" width="844" height="390" />
+<img src="https://github.com/winhc/weather_app/blob/master/docs/gif/weather_app_screen_record.gif" width="844" height="900" />
 
