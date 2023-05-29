@@ -13,5 +13,17 @@ This is my new Weather App with offline capabilities and notification.
 - animation list
 
 ### Screen record & UI
-<img src="https://github.com/winhc/weather_app/blob/master/docs/gif/weather_app_screen_record.gif" width="844" height="900" />
+<img src="https://github.com/winhc/weather_app/blob/master/docs/gif/weather_app_screen_record.gif" width="850" height="750" />
+<hr>
 
+Detail             |  Menu
+:-------------------------:|:-------------------------:
+<img src="https://github.com/winhc/weather_app/blob/master/docs/images/weather_detail.png" width="390" height="800" /> | <img src="https://github.com/winhc/weather_app/blob/master/docs/images/weather_menu.png" width="390" height="800" />
+
+Search             |  Favourite
+:-------------------------:|:-------------------------:
+<img src="https://github.com/winhc/weather_app/blob/master/docs/images/weather_search.png" width="390" height="800" /> | <img src="https://github.com/winhc/weather_app/blob/master/docs/images/weather_favourite.png" width="390" height="800" />
+
+Admin             |
+:-------------------------:|
+<img src="https://github.com/winhc/weather_app/blob/master/docs/images/weather_admin.png" width="390" height="800" />
